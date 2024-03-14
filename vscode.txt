@@ -1,0 +1,22 @@
+pylance
+Prettier
+React Essentials
+Django
+django-intellisense
+GraphQL:Syntax Highlighting
+Live Server
+Materia
+Material Theme Icon
+Material Theme Kit
+Python Debugger
+Tailwind CSS intellisense
+Auto Close Tag
+Abracadabra, refactor ...
+Auto Rename Tag
+Babel JavaScript
+Checkpoints
+Comment Anchors
+DotENV
+ES7 + React/Redux/React-Native-Snippet
+ESLint
+HTML End Tag Label
